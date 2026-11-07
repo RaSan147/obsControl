@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "obsControl (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "obsControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
